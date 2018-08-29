@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>e129d8f2-9648-42f6-bc7c-b02a17cc6b05.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>red</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>355</xmin>
+            <ymin>311</ymin>
+            <xmax>407</xmax>
+            <ymax>422</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>red</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>135</xmin>
+            <ymin>304</ymin>
+            <xmax>182</xmax>
+            <ymax>416</ymax>
+        </bndbox>
+    </object>
+</annotation>

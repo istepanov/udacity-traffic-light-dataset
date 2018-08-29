@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>3dae998b-f2e3-4dff-af1d-8c6691418e45.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>yellow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>190</xmin>
+            <ymin>429</ymin>
+            <xmax>221</xmax>
+            <ymax>495</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>yellow</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>62</xmin>
+            <ymin>426</ymin>
+            <xmax>93</xmax>
+            <ymax>491</ymax>
+        </bndbox>
+    </object>
+</annotation>
